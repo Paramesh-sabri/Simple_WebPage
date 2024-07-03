@@ -1,0 +1,72 @@
+body{
+    /* background-image: url("bgimg/Best\ Hd\ Wallpapers\ For\ Pc\ 1920x1080.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+    background-color: black;
+    background-image: url("background_image/background_img.jpeg");
+}
+h1{
+    text-align: center;
+    color: rgb(223, 255, 255);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: -10px;
+    background-image: url("header_background/header.jpeg");
+}
+h2{
+    text-align: center;
+    color: rgb(230, 207, 176);
+    font-family:cursive;
+    font-size: 20px;
+
+}
+
+.hey{
+    justify-content: space-between;
+    color: rgb(70, 24, 24);
+    display: flex;
+    margin-top: 50px;
+}
+button{
+    font-family:cursive;
+    font-size: 25px;
+    color: yellowgreen;
+    background-image: url("header_background/header.jpeg");
+    margin-right: 27px;
+}
+.xp{
+    color:rgb(182, 225, 119);
+    margin-left: 3%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:inherit;
+    font-size: 20px;
+
+}
+.def{
+    color: rgb(174, 202, 132);
+    margin-right: 50%;
+    font-size: 18px;
+    font-family: cursive;
+    text-align: justify;
+}
+.image{
+    margin-left: 55%;
+    margin-top: -15%;
+    position: absolute;
+    width: 500px;
+}
+.cont{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.mail{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: -1%;
+    margin-left: 5%;
+}
